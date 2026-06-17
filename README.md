@@ -10,7 +10,7 @@ This repository contains my data analytics projects and technical audits.
     * Used SQL to analyze and clean billing logs.
     * Wrote scripts to identify data discrepancies.
 * **Result:** Improved data accuracy and streamlined the audit process.
-[🔗 View Full Project](01_Revenue_Assurance_Audit/)
+* [🔗 View Full Project](01_Revenue_Assurance_Audit/)
 
 
 ### 02. SQL World Data Analysis
