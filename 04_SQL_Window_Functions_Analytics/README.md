@@ -50,5 +50,5 @@ This project uses MySQL Window Functions, Date-Time Functions, and String Operat
 ---
 
 ## 📁 Repository Files
-* `04_SQL_Functions_Analytics.sql`: Clean MySQL script with database schema and queries.
+* `sql function assign.sql`: Clean MySQL script with database schema and queries.
 * `README.md`: Business case studies and analytical insights.
