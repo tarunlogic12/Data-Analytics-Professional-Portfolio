@@ -19,4 +19,10 @@ This repository contains my data analytics projects and technical audits.
 * **Result:** Turned raw data into clear benchmarks for market comparison and resource planning.
 * [🔗 View Full Project](02_SQL_Case_Study_World_Data/)
 
----
+
+### 03. Sales & Human Capital Performance Analytics
+
+* **Tools:** SQL (MySQL - Subqueries)
+* **Goal:** Analyzing employee salaries and company sales performance.
+* **Result:** Identified top sales performers, high-earning departments, and key revenue contributors using subqueries.
+* 🔗 [View Full Project](./03_SQL_Enterprise_Case_Study_Subqueries)
